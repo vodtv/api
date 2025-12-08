@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-12-09 05:22 CST）
+## API 状态（最近更新：2025-12-09 06:25 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：74
 - 失败 API 数量：6
 - 平均可用率：92.6%
 - 完美可用率（100%）：48 个
-- 高可用率（80%-99%）：25 个
-- 中等可用率（50%-79%）：2 个
+- 高可用率（80%-99%）：26 个
+- 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：5 个
 
 <div style="font-size: 11px;">
@@ -232,9 +232,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 94 | 6 | 94.0% | 0 |
-| ✅ | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
-| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 60 | 40 | 60.0% | 39 |
+| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 95 | 5 | 95.0% | 0 |
+| ✅ | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
+| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 59 | 41 | 59.0% | 40 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
