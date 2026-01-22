@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-22 16:40 CST）
+## API 状态（最近更新：2026-01-22 17:38 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：72
@@ -232,8 +232,8 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬飘零资源 | https://p2100.net/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |
-| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
-| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 64 | 36 | 64.0% | 36 |
+| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 71 | 29 | 71.0% | 29 |
+| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 63 | 37 | 63.0% | 37 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
