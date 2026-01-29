@@ -127,7 +127,7 @@ async function handleRequest(request) {
 // -------------------- JSON 配置 + API 前缀替换 + Base58 --------------------
 if (configParam === '1') {
   try {
-    const jsonUrl = 'https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/jin18.json'
+    const jsonUrl = 'https://raw.githubusercontent.com/vodtv/api/main/jin18.json'
     const response = await fetch(jsonUrl)
     const data = await response.json()
     const newData = addOrReplacePrefix(data, prefixParam || defaultPrefix)
@@ -153,7 +153,7 @@ if (configParam === '1') {
 // -------------------- JSON 配置（原始，不加前缀） config=0 --------------------
 if (configParam === '0') {
   try {
-    const jsonUrl = 'https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/jin18.json'
+    const jsonUrl = 'https://raw.githubusercontent.com/vodtv/api/main/jin18.json'
     const response = await fetch(jsonUrl)
     const data = await response.json()
 
