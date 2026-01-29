@@ -9,7 +9,7 @@ https://vodtv.github.io/api
 👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
-https://j18pz.hafrey.dpdns.org?config=0&encode=base58
+https://mconfig.viptv.work?config=0&encode=base58
 ```
 ```bash
 https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt
@@ -241,3 +241,4 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
+
